@@ -1,12 +1,11 @@
-# React + Vite
+About:
+Full Stack URL Shortener with React JS, Tailwind CSS, Supabase, Shadcn UI, Tailwind css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2025-05-24 225038](https://github.com/user-attachments/assets/6eea4616-0b87-476e-94e1-a5bfcb90cfa6)
 
-Currently, two official plugins are available:
+![Screenshot 2025-05-24 225100](https://github.com/user-attachments/assets/505424d2-205f-4269-ad4d-345d4cb602bb)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2025-05-24 225120](https://github.com/user-attachments/assets/031ebc82-a980-47a2-8614-b57a937d3589)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
